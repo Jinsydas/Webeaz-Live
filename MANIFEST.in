@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include erpeaz *.css
+recursive-include erpeaz *.csv
+recursive-include erpeaz *.html
+recursive-include erpeaz *.ico
+recursive-include erpeaz *.js
+recursive-include erpeaz *.json
+recursive-include erpeaz *.md
+recursive-include erpeaz *.png
+recursive-include erpeaz *.py
+recursive-include erpeaz *.svg
+recursive-include erpeaz *.txt
+recursive-exclude erpeaz *.pyc

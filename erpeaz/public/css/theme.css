@@ -1,0 +1,45 @@
+.icon
+{
+	fill:#fafbfc !important;
+	stroke:#fafbfc !important;
+}
+.icon:hover
+{
+	fill:#1f272e !important;
+	stroke:#1f272e !important;
+}
+.desk-sidebar .standard-sidebar-item icon.selected
+{
+	 fill:#1f272e !important;
+        stroke:#1f272e !important;
+}
+.desk-sidebar .standard-sidebar-item.selected
+ {
+    background-color:#fafbfc !important;
+    color:#1f272e;
+}
+a:hover
+{
+	color:#1f272e;
+}
+a
+{
+	color:#fafbfc;
+}
+.layout-side-section
+{
+background-color:#1a75bb !important;
+}
+.sticky-top,.navbar
+{
+background-color:#f6921e !important;
+background:#f6921e !important;
+}
+.widget:hover{
+    background-color:#f6921e
+
+}
+
+
+
+
